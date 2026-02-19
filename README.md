@@ -3,10 +3,8 @@
 HouseHunt is a comprehensive web application designed to simplify the process of finding and renting homes. It provides a seamless interface for users to search for properties, view detailed information, and connect with property owners or managers.
 
 ## 🚀 Demo Links
-- **Project Template:** [Google Drive Link](https://drive.google.com/drive/folders/1I_8WJE2wp3FdTqjmroBI5XxVkNsGSqqi)
-- **Project Documentation:** [Google Docs Link](https://docs.google.com/document/d/15nB35IVzZk2nAC9AMagYc_2q8LyKsyjP/edit?usp=drive_link)
-- **Demo Video:** [Watch Video](https://drive.google.com/file/d/1QioacNtT-l7T0bDTW96vL7Sv6mnhY3J3/view?usp=sharing)
-
+- **Project Documentation:** https://docs.google.com/document/d/1FZArdUWOoGQC2Fe_7AImFO7ktFfpzZNt1Qe4zPXhSpw/edit?usp=sharing
+- **Demo Video:** https://drive.google.com/file/d/1Lehh0RiC6D8liRiwHQHN89TmbLYbWvrV/view?usp=sharing
 ## ✨ Features
 * **User Authentication:** Secure login and registration for tenants and property owners.
 * **Property Listings:** Browse through a wide variety of rental properties with high-quality images.
