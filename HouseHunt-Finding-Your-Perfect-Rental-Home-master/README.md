@@ -55,7 +55,7 @@ npm start
 ```
 ---
 
-Visit: http://localhost:3000
+
 ---
 
 ## 📁 Folder Structure
@@ -106,7 +106,6 @@ Visit: http://localhost:3000
 
 ## 📄 Project Templates
 
-🗂️ [Click here to view the complete documentation folder on Google Drive](https://drive.google.com/drive/folders/1xwzjEgESzgOuzVqcWou_QP-NAqAUKMKJ?usp=sharing)
 ---
 
 It includes:
@@ -118,13 +117,13 @@ It includes:
 ---
 👥 Team Members
 
-Janani
+Supriya Kanchi
 
-Gayathri
+Medapati Jagan Mohan
 
-Reshma
+Naga Venkata Sri Lakshmi Nakka
 
-Srija
+Nagendra Venu Rekapalli
 
 ---
 
@@ -142,3 +141,8 @@ Gratitude to SmartBridge and our mentors for guiding us through this enriching i
 💬 Live Chat between renters and owners
 
 📊 Admin Analytics Dashboard
+
+
+
+**Video Demo**
+https://drive.google.com/file/d/1Lehh0RiC6D8liRiwHQHN89TmbLYbWvrV/view?usp=drive_link
